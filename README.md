@@ -16,7 +16,7 @@ Program "Cek Kata Baku" adalah sebuah alat sederhana yang dirancang untuk memban
 
 ## Cara Menggunakan
 
-1. Jalankan cek_katabaku.py.
+1. Jalankan cek_Katabaku.py.
 2. Masukkan kata yang ingin Anda periksa ke dalam kotak masukan.
 3. Klik tombol "Cek Kata" untuk memeriksa kata tersebut.
 4. Hasil akan ditampilkan di bawah kotak masukan. Jika kata yang dimasukkan adalah kata baku, Anda akan menerima konfirmasi. Jika tidak, Anda akan diberikan saran kata yang mirip atau opsi perbaikan otomatis jika tersedia.
